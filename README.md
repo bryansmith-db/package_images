@@ -18,4 +18,4 @@ License and/or Citation
 
 This dataset was created by Databricks. Copyright (2021) Databricks, Inc.
 
-This dataset is licensed under a Creative Commons Attribution 4.0 International License<https://creativecommons.org/licenses/by/4.0/>
+This dataset is licensed under a [Creative Commons Attribution 4.0 International Licens](https://creativecommons.org/licenses/by/4.0/)
